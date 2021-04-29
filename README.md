@@ -1,2 +1,3 @@
 # wappstobit-go
-To come, example drivers
+
+An example on how to communicate with the micro:bit over I2C.
